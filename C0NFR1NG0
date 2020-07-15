@@ -1,0 +1,526 @@
+# C0NFR1NG0
+ HTML
+ <!DOCTYPE html>
+ <html>
+ <head>
+ 	<meta name="viewport" content="width=device-width" />
+ 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+ 	<title>W41K3R </title>
+ 	<link rel="icon" href="https://w41k3r.com/wp-content/themes/walker/images/icon.png" />
+ 	<script>
+ 	dataLayer = [{
+ 	    'walker_id': '53663',
+ 	    'loggedIn': 'true',
+     }];
+ 	</script>
+ 	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+ 	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+ 	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+ 	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+ 	})(window,document,'script','dataLayer','GTM-WNF63G5');</script>
+
+ 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
+
+
+ 	<script src="https://w41k3r.com/wp-content/themes/walker/js/grained.min.js"></script>
+ 	<script src="https://use.typekit.net/dgy4xxs.js"></script>
+ 	<script>try{Typekit.load({ async: true });}catch(e){}</script>
+ 	<script src="https://kit.fontawesome.com/9a4dafff0f.js" crossorigin="anonymous"></script>
+
+
+ 	<script src="https://w41k3r.com/wp-content/themes/walker/modals/js/modernizr.custom.js"></script>
+ 	<link rel="stylesheet" href="https://w41k3r.com/wp-content/themes/walker/style2.css" type="text/css" />
+ 	<link rel="stylesheet" href="https://w41k3r.com/wp-content/themes/walker/style-glitch-image.css" type="text/css" />
+ 	<link rel="stylesheet" href="https://w41k3r.com/wp-content/themes/walker/modals/css/component.css" type="text/css" />
+
+
+
+ 	<meta name='robots' content='noindex,follow' />
+ <link rel='dns-prefetch' href='//s0.wp.com' />
+ <link rel='dns-prefetch' href='//s.w.org' />
+ <link rel="alternate" type="application/rss+xml" title="Walker &raquo; Home Comments Feed" href="https://w41k3r.com/home/feed/" />
+ 		<script type="text/javascript">
+ 			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/w41k3r.com\/wp-includes\/js\/wp-emoji-release.min.js"}};
+ 			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+ 		</script>
+ 		<style type="text/css">
+ img.wp-smiley,
+ img.emoji {
+ 	display: inline !important;
+ 	border: none !important;
+ 	box-shadow: none !important;
+ 	height: 1em !important;
+ 	width: 1em !important;
+ 	margin: 0 .07em !important;
+ 	vertical-align: -0.1em !important;
+ 	background: none !important;
+ 	padding: 0 !important;
+ }
+ </style>
+ <link rel='stylesheet' id='wp-block-library-css'  href='https://w41k3r.com/wp-includes/css/dist/block-library/style.min.css' type='text/css' media='all' />
+ <link rel='stylesheet' id='sb_instagram_styles-css'  href='https://w41k3r.com/wp-content/plugins/instagram-feed-pro/css/sb-instagram.css?ver=2.11' type='text/css' media='all' />
+ <link rel='stylesheet' id='jetpack_css-css'  href='https://w41k3r.com/wp-content/plugins/jetpack/css/jetpack.css?ver=6.8.2' type='text/css' media='all' />
+ <script type='text/javascript' src='https://w41k3r.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+ <script type='text/javascript' src='https://w41k3r.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+ <link rel='https://api.w.org/' href='https://w41k3r.com/wp-json/' />
+ <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://w41k3r.com/xmlrpc.php?rsd" />
+ <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://w41k3r.com/wp-includes/wlwmanifest.xml" />
+ <meta name="generator" content="WordPress 5.0.9" />
+ <link rel="canonical" href="https://w41k3r.com/" />
+ <link rel='shortlink' href='https://wp.me/P9q7e1-4' />
+ <link rel="alternate" type="application/json+oembed" href="https://w41k3r.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fw41k3r.com%2F" />
+ <link rel="alternate" type="text/xml+oembed" href="https://w41k3r.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fw41k3r.com%2F&#038;format=xml" />
+ <script type="text/javascript">var ajaxurl = "https://w41k3r.com/wp-admin/admin-ajax.php";var likePostLabel = "🥔";var unLikePostLabel = "🥔-ed";var likeCommentLabel = "🥔";var unLikeCommentLabel = "🥔-ed";</script>
+ <link rel='dns-prefetch' href='//v0.wordpress.com'/>
+ <style type='text/css'>img#wpstats{display:none}</style>
+ <!-- Jetpack Open Graph Tags -->
+ <meta property="og:type" content="website" />
+ <meta property="og:title" content="Walker" />
+ <meta property="og:url" content="https://w41k3r.com/" />
+ <meta property="og:site_name" content="Walker" />
+ <meta property="og:image" content="https://s0.wp.com/i/blank.jpg" />
+ <meta property="og:locale" content="en_US" />
+ <meta name="twitter:text:title" content="Home" />
+ <meta name="twitter:card" content="summary" />
+ <meta name="twitter:description" content="Visit the post for more." />
+
+ <!-- End Jetpack Open Graph Tags -->
+ <script type="text/javascript">
+ /* <![CDATA[ */
+ 	var wpNotesIsJetpackClient = true;
+ 	var wpNotesIsJetpackClientV2 = true;
+ 	var wpNotesLinkAccountsURL = 'https://w41k3r.com/wp-admin/admin.php?page=jetpack';
+ /* ]]> */
+ </script>
+ </head>
+ <body class="home page-template page-template-page-home page-template-page-home-php page page-id-4 logged-in">
+ <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WNF63G5"
+ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+
+ <div class="md-modal md-effect-1" id="modal-1">
+ 	<div class="md-content">
+ 		<h3 class="hardglitch" data-text="N3W 9057">New post</h3>
+ 		<div>
+ 			<span class="md-close"><i class="fal fa-times-hexagon"></i></span>
+
+                 <div class='gf_browser_chrome gform_wrapper glow_wrapper border_wrapper' id='gform_wrapper_1' ><div id='gf_1' class='gform_anchor' tabindex='-1'></div><form method='post' enctype='multipart/form-data' target='gform_ajax_frame_1' id='gform_1' class='glow border' action='/#gf_1'>
+                         <div class='gform_body'><ul id='gform_fields_1' class='gform_fields top_label form_sublabel_below description_below'><li id='field_1_1'  class='gfield glow gfield_contains_required field_sublabel_below field_description_below gfield_visibility_visible' ><label class='gfield_label' for='input_1_1' >Post title<span class='gfield_required'>*</span></label><div class='ginput_container ginput_container_post_title'>
+ 					<input name='input_1' id='input_1_1' type='text' value='' class='large'   aria-required="true" aria-invalid="false"  />
+ 				</div></li><li id='field_1_2'  class='gfield glow gfield_contains_required field_sublabel_below field_description_below gfield_visibility_visible' ><label class='gfield_label' for='input_1_2' >Write your post<span class='gfield_required'>*</span></label><div class='ginput_container ginput_container_textarea'><textarea name='input_2' id='input_1_2' class='textarea large'     aria-required="true" aria-invalid="false"   rows='10' cols='50'></textarea></div></li><li id='field_1_3'  class='gfield limited post-tags gfield_contains_required field_sublabel_below field_description_below gfield_visibility_visible' ><label class='gfield_label'  >Tags<span class='gfield_required'>*</span></label><div class='ginput_container ginput_container_checkbox'><ul class='gfield_checkbox' id='input_1_3'><li class='gchoice_1_3_1'>
+ 								<input name='input_3.1' type='checkbox'  value='8'  id='choice_1_3_1'   />
+ 								<label for='choice_1_3_1' id='label_1_3_1'>Concert</label>
+ 							</li><li class='gchoice_1_3_2'>
+ 								<input name='input_3.2' type='checkbox'  value='5'  id='choice_1_3_2'   />
+ 								<label for='choice_1_3_2' id='label_1_3_2'>Funny</label>
+ 							</li><li class='gchoice_1_3_3'>
+ 								<input name='input_3.3' type='checkbox'  value='4'  id='choice_1_3_3'   />
+ 								<label for='choice_1_3_3' id='label_1_3_3'>Gaming</label>
+ 							</li><li class='gchoice_1_3_4'>
+ 								<input name='input_3.4' type='checkbox'  value='6'  id='choice_1_3_4'   />
+ 								<label for='choice_1_3_4' id='label_1_3_4'>Music</label>
+ 							</li><li class='gchoice_1_3_5'>
+ 								<input name='input_3.5' type='checkbox'  value='1'  id='choice_1_3_5'   />
+ 								<label for='choice_1_3_5' id='label_1_3_5'>Other</label>
+ 							</li><li class='gchoice_1_3_6'>
+ 								<input name='input_3.6' type='checkbox'  value='7'  id='choice_1_3_6'   />
+ 								<label for='choice_1_3_6' id='label_1_3_6'>Random</label>
+ 							</li></ul></div></li>
+                             </ul></div>
+         <div class='gform_footer top_label'> <input type='submit' id='gform_submit_button_1' class='gform_button button' value='Publish'  onclick='if(window["gf_submitting_1"]){return false;}  if( !jQuery("#gform_1")[0].checkValidity || jQuery("#gform_1")[0].checkValidity()){window["gf_submitting_1"]=true;}  ' onkeypress='if( event.keyCode == 13 ){ if(window["gf_submitting_1"]){return false;} if( !jQuery("#gform_1")[0].checkValidity || jQuery("#gform_1")[0].checkValidity()){window["gf_submitting_1"]=true;}  jQuery("#gform_1").trigger("submit",[true]); }' /> <input type='hidden' name='gform_ajax' value='form_id=1&amp;title=&amp;description=&amp;tabindex=0' /><input type="hidden" id="_gform_submit_nonce_1" name="_gform_submit_nonce_1" value="47b301acb6" /><input type="hidden" name="_wp_http_referer" value="/" />
+             <input type='hidden' class='gform_hidden' name='is_submit_1' value='1' />
+             <input type='hidden' class='gform_hidden' name='gform_submit' value='1' />
+
+             <input type='hidden' class='gform_hidden' name='gform_unique_id' value='' />
+             <input type='hidden' class='gform_hidden' name='state_1' value='WyJbXSIsIjI3ZGY4YWY4ODljMGNiNTZjNDAzYTczYjAyYzU0MTk5Il0=' />
+             <input type='hidden' class='gform_hidden' name='gform_target_page_number_1' id='gform_target_page_number_1' value='0' />
+             <input type='hidden' class='gform_hidden' name='gform_source_page_number_1' id='gform_source_page_number_1' value='1' />
+             <input type='hidden' name='gform_field_values' value='' />
+
+         </div>
+                         </form>
+                         </div>
+                 <iframe style='display:none;width:0px;height:0px;' src='about:blank' name='gform_ajax_frame_1' id='gform_ajax_frame_1' title='This iframe contains the logic required to handle Ajax powered Gravity Forms.'></iframe>
+                 <script type='text/javascript'>jQuery(document).ready(function($){gformInitSpinner( 1, 'https://w41k3r.com/wp-content/plugins/gravityforms/images/spinner.gif' );jQuery('#gform_ajax_frame_1').on('load',function(){var contents = jQuery(this).contents().find('*').html();var is_postback = contents.indexOf('GF_AJAX_POSTBACK') >= 0;if(!is_postback){return;}var form_content = jQuery(this).contents().find('#gform_wrapper_1');var is_confirmation = jQuery(this).contents().find('#gform_confirmation_wrapper_1').length > 0;var is_redirect = contents.indexOf('gformRedirect(){') >= 0;var is_form = form_content.length > 0 && ! is_redirect && ! is_confirmation;var mt = parseInt(jQuery('html').css('margin-top'), 10) + parseInt(jQuery('body').css('margin-top'), 10) + 100;if(is_form){jQuery('#gform_wrapper_1').html(form_content.html());if(form_content.hasClass('gform_validation_error')){jQuery('#gform_wrapper_1').addClass('gform_validation_error');} else {jQuery('#gform_wrapper_1').removeClass('gform_validation_error');}setTimeout( function() { /* delay the scroll by 50 milliseconds to fix a bug in chrome */ jQuery(document).scrollTop(jQuery('#gform_wrapper_1').offset().top - mt); }, 50 );if(window['gformInitDatepicker']) {gformInitDatepicker();}if(window['gformInitPriceFields']) {gformInitPriceFields();}var current_page = jQuery('#gform_source_page_number_1').val();gformInitSpinner( 1, 'https://w41k3r.com/wp-content/plugins/gravityforms/images/spinner.gif' );jQuery(document).trigger('gform_page_loaded', [1, current_page]);window['gf_submitting_1'] = false;}else if(!is_redirect){var confirmation_content = jQuery(this).contents().find('.GF_AJAX_POSTBACK').html();if(!confirmation_content){confirmation_content = contents;}setTimeout(function(){jQuery('#gform_wrapper_1').replaceWith(confirmation_content);jQuery(document).scrollTop(jQuery('#gf_1').offset().top - mt);jQuery(document).trigger('gform_confirmation_loaded', [1]);window['gf_submitting_1'] = false;}, 50);}else{jQuery('#gform_1').append(contents);if(window['gformRedirect']) {gformRedirect();}}jQuery(document).trigger('gform_post_render', [1, current_page]);} );} );</script><script type='text/javascript'> jQuery(document).bind('gform_post_render', function(event, formId, currentPage){if(formId == 1) {} } );jQuery(document).bind('gform_post_conditional_logic', function(event, formId, fields, isInit){} );</script><script type='text/javascript'> jQuery(document).ready(function(){jQuery(document).trigger('gform_post_render', [1, 1]) } ); </script>		</div>
+ 	</div>
+ </div>
+
+ <div id="loading">
+ 	<div style="width:200px;max-width:100%;margin:24% auto;">
+ 		<h4 class="hardglitch" data-text="{L04D1NG;}" style="margin-left:5em;">LOADING...</h4>
+ 	</div>
+ </div>
+ <div id="nav-slide">
+ 	<div id="main-navigation">
+ 		<h3>Navigation</h3>
+
+ 		<nav id="main-menu" class="menu-main-menu-container"><ul id="menu-main-menu" class="menu"><li id="menu-item-17" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-4 current_page_item menu-item-17"><a href="https://w41k3r.com/">Home</a></li>
+ <li id="menu-item-15412" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15412"><a href="https://w41k3r.com/walker-avatars/">Walker Avatars</a></li>
+ <li id="menu-item-16" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16"><a href="https://w41k3r.com/community/">— Community Forum</a></li>
+ <li id="menu-item-67085" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-67085"><a href="https://w41k3r.com/walker-fanfiction-chapter-1/">Walker Fanfiction – Chapter 1</a></li>
+ <li id="menu-item-67084" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-67084"><a href="https://w41k3r.com/walker-fanfiction-chapter-2/">Walker Fanfiction – Chapter 2</a></li>
+ <li id="menu-item-63" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-63"><a href="https://w41k3r.com/videos/">Videos</a></li>
+ <li id="menu-item-64" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-64"><a href="https://w41k3r.com/events/">Upcoming events</a></li>
+ <li id="menu-item-8342" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8342"><a href="https://w41k3r.com/unreleased/">Alan Walker Unreleased Photos</a></li>
+ <li class="icon logout menu-item"><a href="https://w41k3r.com/wp-login.php?action=logout&amp;redirect_to=https%3A%2F%2Fw41k3r.com%2Flogged-out%2F&amp;_wpnonce=30e9a837d3">Log out <i class="fa fa-sign-out" aria-hidden="true"></i></a></li></ul></nav>
+ 	</div>
+ </div>
+ <div id="container">
+ 		<!--<style>body{background-image:url('https://w41k3r.com/wp-content/themes/walker/images/bgptrn.png');background-repeat:repeat;background-size:10px;}</style>-->
+
+ 	<div id="site" class="blur">
+ <div class="w">
+
+
+
+ 				<header>
+ 			<div id="logo">
+ 				<a href="https://w41k3r.com"><img alt="Walker" src="https://w41k3r.com/wp-content/themes/walker/images/logo.png" /></a>
+ 			</div>
+ 			<div id="nav">
+ 				<ul id="nav-ul">
+ 					<li>
+ 						<h5 class="hardglitch" id="profile-link" data-text="#00(00)">
+ 							<a href="https://w41k3r.com/walkers/?w_id=53663"  class="nolink">
+ 								#53663							</a>
+ 						</h5>
+ 					</li>
+
+ 					<li>
+ 						<h5 class="hardglitch" id="messages-link" data-text="M3554G35">
+ 							<a href="https://w41k3r.com/messages/" class="nolink">
+ 								Messages <span>[143]</span>
+ 							</a>
+ 						</h5>
+ 					</li>
+ 					<li>
+ 						<span class="burger-nav" id="mt"><i class="fal fa-ellipsis-h-alt"></i></span>
+ 					</li>
+ 				</ul>
+ 			</div>
+ 		</header>
+ 		<div id="main-centered-mobile"></div>
+
+ <div class="side side-left top-border">
+
+ 	<div id="community-posts">
+
+
+ <h2 class="hardglitch" data-text="C0WWUN1TY"><a href="https://w41k3r.com/community/" class="nolink">Community</a></h2>
+ <ul id="forum-items" class="items">
+
+ 		<a href="https://w41k3r.com/playlist-updated-3/" class="nolink bg-box">
+ 			<li class="forum-item item" id="forum-98933"><span class="wid ta" style="color:#dd3333">t34m474n</span> – Playlist UPDATED</li>
+ 		</a>
+
+
+ 		<a href="https://w41k3r.com/and-the-winner-is/" class="nolink bg-box">
+ 			<li class="forum-item item" id="forum-98828"><span class="wid ta" style="color:#dd3333">t34m474n</span> – And the winner is&#8230;.</li>
+ 		</a>
+
+
+ 		<a href="https://w41k3r.com/go-kart/" class="nolink bg-box">
+ 			<li class="forum-item item" id="forum-98698"><span class="wid aw">#0</span> – Go Kart!</li>
+ 		</a>
+
+
+ 		<a href="https://w41k3r.com/zoom-meeting-for-all-walkers/" class="nolink bg-box">
+ 			<li class="forum-item item" id="forum-98993"><span class="wid">53532</span> – Zoom Meeting for all Walkers</li>
+ 		</a>
+
+
+ 		<a href="https://w41k3r.com/63584-2/" class="nolink bg-box">
+ 			<li class="forum-item item" id="forum-98991"><span class="wid">56067</span> – #63584</li>
+ 		</a>
+
+
+ 		<a href="https://w41k3r.com/zodiac-sign-5/" class="nolink bg-box">
+ 			<li class="forum-item item" id="forum-98989"><span class="wid">60123</span> – Zodiac Sign #5</li>
+ 		</a>
+
+
+ 		<a href="https://w41k3r.com/my-demo-song-released-now/" class="nolink bg-box">
+ 			<li class="forum-item item" id="forum-98987"><span class="wid">63640</span> – My DEMO Song, Released NOW!!!</li>
+ 		</a>
+
+
+ 		<a href="https://w41k3r.com/whatsapp-group-15/" class="nolink bg-box">
+ 			<li class="forum-item item" id="forum-98985"><span class="wid">65617</span> – WhatsApp group</li>
+ 		</a>
+
+
+ 		<a href="https://w41k3r.com/community/" class="nolink" style="background: rgb(3, 33, 30);">
+ 		<li class="forum-item item">All community posts <i class="fal fa-arrow-right"></i></li>
+ 	</a>
+
+ </ul>
+
+ 	</div>
+
+ 	<div id="events-posts">
+
+ 	</div>
+
+ </div><!-- end .side-left -->
+
+ <main class="centered">
+
+
+ 	        <section class="featured-content">
+
+ 								<a href="https://w41k3r.com/time-official-music-video/" class="nolink glitch-ic ao">
+
+
+ 										<div class="glitch__img" style="background-image:url('https://w41k3r.com/wp-content/uploads/2020/05/outnow_walker_header.gif')"></div>
+ 					<div class="glitch__img" style="background-image:url('https://w41k3r.com/wp-content/uploads/2020/05/outnow_walker_header.gif')"></div>
+ 					<div class="glitch__img" style="background-image:url('https://w41k3r.com/wp-content/uploads/2020/05/outnow_walker_header.gif')"></div>
+ 					<div class="glitch__img" style="background-image:url('https://w41k3r.com/wp-content/uploads/2020/05/outnow_walker_header.gif')"></div>
+ 					<div class="glitch__img" style="background-image:url('https://w41k3r.com/wp-content/uploads/2020/05/outnow_walker_header.gif')"></div>
+ 					<img src="https://w41k3r.com/wp-content/uploads/2020/05/outnow_walker_header.gif" style="opacity:0;">
+
+
+ 								</a>
+
+ 			</section>
+
+
+ 	        <section class="featured-content">
+
+ 								<a href="https://w41k3r.com/hans-zimmer-time-alan-walker-remix/" class="nolink glitch-ic ao">
+
+
+ 										<div class="glitch__img" style="background-image:url('https://w41k3r.com/wp-content/uploads/2020/05/TIME-Banner-W41k3r.com-Right-OUT-NOW.png')"></div>
+ 					<div class="glitch__img" style="background-image:url('https://w41k3r.com/wp-content/uploads/2020/05/TIME-Banner-W41k3r.com-Right-OUT-NOW.png')"></div>
+ 					<div class="glitch__img" style="background-image:url('https://w41k3r.com/wp-content/uploads/2020/05/TIME-Banner-W41k3r.com-Right-OUT-NOW.png')"></div>
+ 					<div class="glitch__img" style="background-image:url('https://w41k3r.com/wp-content/uploads/2020/05/TIME-Banner-W41k3r.com-Right-OUT-NOW.png')"></div>
+ 					<div class="glitch__img" style="background-image:url('https://w41k3r.com/wp-content/uploads/2020/05/TIME-Banner-W41k3r.com-Right-OUT-NOW.png')"></div>
+ 					<img src="https://w41k3r.com/wp-content/uploads/2020/05/TIME-Banner-W41k3r.com-Right-OUT-NOW.png" style="opacity:0;">
+
+
+ 								</a>
+
+ 			</section>
+
+
+ 	<div id="community-posts-mobile"></div>
+
+ 	<section id="videos" style="margin-top:1em">
+
+
+ 	<div style="float:left;width:60%;display:inline-block">
+ 	    <h3 class="hardglitch" data-text="PL4YL15T5">PLAYLISTS</h3>
+ 	</div>
+
+ 	<div style="float:left;width:40%;display:inline-block;text-align:right;">
+ 				<a href="https://w41k3r.com/videos/" class="nolink viewall" style="position: relative;top:-6px;margin-bottom:10px;">
+ 			All playlists <i class="fa fa-play-circle" aria-hidden="true"></i>
+ 		</a>
+ 			</div>
+
+ 	<ul class="video-list" style="margin-top:2em;">
+                     <a href="https://w41k3r.com/playlist/behind-the-scenes-alone-pt-ii/" class="nolink">
+ 			<li>
+ 				<img src="https://w41k3r.com/wp-content/uploads/2020/03/bts_thumbnail.jpg" />
+ 				<h5>Behind the Scenes &#8211; Alone, Pt.II</h5>
+ 			</li>
+ 		</a>
+                     <a href="https://w41k3r.com/playlist/alans-releases/" class="nolink">
+ 			<li>
+ 				<img src="https://w41k3r.com/wp-content/uploads/2017/11/playlist_thumbnail_originals.jpg" />
+ 				<h5>Alan Walker Originals</h5>
+ 			</li>
+ 		</a>
+                     <a href="https://w41k3r.com/playlist/w41k3r-exclusives/" class="nolink">
+ 			<li>
+ 				<img src="https://w41k3r.com/wp-content/uploads/2018/01/playlist_thumbnail_exclusives.jpg" />
+ 				<h5>w41k3r exclusives!</h5>
+ 			</li>
+ 		</a>
+                     <a href="https://w41k3r.com/playlist/unmasked-vlog/" class="nolink">
+ 			<li>
+ 				<img src="https://w41k3r.com/wp-content/uploads/2018/03/playlist_thumbnail_vlog.jpg" />
+ 				<h5>Unmasked Vlog</h5>
+ 			</li>
+ 		</a>
+
+     </ul>
+
+ 	</section>
+
+ </main>
+
+ <div class="side side-right">
+
+ 		<iframe src="https://open.spotify.com/embed/user/alanwalkerofficial/playlist/2FLQcNOwuIjxh681AeaO2a" width="300" height="292" frameborder="0" allowtransparency="true" style="overflow: hidden;border-radius: 0.5em;border: 1px solid #132b2d;"></iframe>
+
+
+ 		<div id="image-link">
+ 						<a href="http://w41k3r.com/unity-alan-x-walkers/" target="_blank">
+ 							<img width="710" height="570" src="https://w41k3r.com/wp-content/uploads/2019/07/unity.png" class="attachment-full size-full" alt="" srcset="https://w41k3r.com/wp-content/uploads/2019/07/unity.png 710w, https://w41k3r.com/wp-content/uploads/2019/07/unity-300x241.png 300w" sizes="(max-width: 710px) 100vw, 710px" />						</a>
+ 					</div>
+
+
+ </div><!-- end .side-right -->
+
+
+ <script>
+ $(document).ready(function() {
+ 	if ($(window).width() < 1020) {
+ 		$("main.centered").appendTo("#main-centered-mobile");
+ 		$("#community-posts").appendTo("#community-posts-mobile");
+ 	}
+ });
+ </script>
+ </div><!-- end .w wrapper -->
+
+ <script>
+ hashtag_regexp = /#([0-9]+)/g;
+ siteurl = 'https://w41k3r.com';
+
+ function linkHashtags(text) {
+     return text.replace(
+         hashtag_regexp,
+         '<a class="walkerlink nolink" target="_blank" href="'+siteurl+'/walkers/?w_id=$1">#$1</a>'
+     );
+ }
+
+ $(document).ready(function(){
+     $('p,h1').each(function() {
+         $(this).html(linkHashtags($(this).html()));
+     });
+ });
+ </script>
+
+
+ 	<div class="md-overlay"></div><!-- the overlay element -->
+
+ 	<script>
+ 	$("#site").click(function(e) {
+ 		if ($(this).hasClass('blur')) {
+ 			e.preventDefault();
+ 		}
+ 	});
+ 	</script>
+
+ 	<!-- classie.js by @desandro: https://github.com/desandro/classie -->
+ 	<script src="https://w41k3r.com/wp-content/themes/walker/modals/js/classie.js"></script>
+ 	<script src="https://w41k3r.com/wp-content/themes/walker/modals/js/modalEffects.js"></script>
+
+
+ 	<footer>
+ 		<div class="w">
+ 			<nav id="social-menu" class="menu-social-links-container"><ul id="menu-social-links" class="menu"><li id="menu-item-19" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19"><a href="https://www.facebook.com/alanwalkermusic/">Facebook</a></li>
+ <li id="menu-item-20" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20"><a href="https://twitter.com/IAmAlanWalker">Twitter</a></li>
+ <li id="menu-item-138" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-138"><a href="https://www.youtube.com/user/DjWalkzz">YouTube</a></li>
+ <li id="menu-item-18" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18"><a href="https://www.snapchat.com/add/alanwalkermusic">Snapchat</a></li>
+ <li id="menu-item-139" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-139"><a href="https://www.instagram.com/alanwalkermusic/">Instagram</a></li>
+ </ul></nav>			
+ 			<span style="float:right;">
+ 				<a href="https://w41k3r.com/privacy-policy/">Privacy & Cookie Policy</a>
+ 			</span>
+ 		</div>
+ 	</footer>
+ 	</div><!-- end #site -->
+ </div><!-- end #container -->
+ <script>
+ // Loading
+ $(window).ready(function() {
+ 	setTimeout(function() {
+ 		$("#loading").fadeOut(100);
+ 		$("#site").removeClass('blur');
+ 	}, 900);
+ });
+
+
+ function triggerMenu() {
+ 	$("#nav-slide").toggle();
+ 	$("#mt").toggleClass('open');
+ 	$("#container").toggleClass('open');
+ }
+ $("#mt").click(function() {
+ 	triggerMenu();
+ });
+ </script>
+ <script>
+ // Autosubmit player form
+ $("form#msodplayer select").change(function() {
+ 	var newPlayer = $(this).val();
+ 	dataLayer.push({
+ 		'event': 'GAEvent',
+ 		'eventCategory': 'music player',
+ 		'eventAction': 'change player',
+ 		'eventLabel': newPlayer,
+ 		'eventValue': 0,
+ 		'nonInteraction': false
+ 	});
+ 	$("form#msodplayer").submit();
+ });
+
+ // Social links open in new tab
+ $(document).ready(function() {
+ 	$("#social-menu a").each(function() {
+ 		$(this).attr("target", "_blank");
+ 	});
+ });
+
+
+ // Run javascript on Gravity Form submit
+ jQuery(document).ready(function(){
+
+     jQuery(document).bind('gform_confirmation_loaded', function(event, formId){
+
+ 	    var formName = "form";
+
+         if(formId == 1) {
+             var formName = "new forum post";
+         } else if(formId == 2) {
+             var formName = "apply for authorization";
+         } else if(formId == 3) {
+             var formName = "new user registration";
+         }
+
+         // Push to dataLayer
+         dataLayer.push({
+         	'event': 'GAEvent',
+         	'eventCategory': 'form',
+         	'eventAction': 'submit',
+         	'eventLabel': formName,
+         	'eventValue': 0,
+         	'nonInteraction': false
+         });
+     });
+
+ });
+ </script>
+
+
+ <!-- Instagram Feed JS -->
+ <script type="text/javascript">
+ var sbiajaxurl = "https://w41k3r.com/wp-admin/admin-ajax.php";
+ </script>
+ 	<div style="display:none">
+ 	</div>
+ <link rel='stylesheet' id='wpcom-notes-admin-bar-css'  href='https://s0.wp.com/wp-content/mu-plugins/notes/admin-bar-v2.css?ver=6.8.2-202028' type='text/css' media='all' />
+ <link rel='stylesheet' id='noticons-css'  href='https://s0.wp.com/i/noticons/noticons.css?ver=6.8.2-202028' type='text/css' media='all' />
+ <link rel='stylesheet' id='gforms_reset_css-css'  href='https://w41k3r.com/wp-content/plugins/gravityforms/css/formreset.min.css?ver=2.4.18' type='text/css' media='all' />
+ <link rel='stylesheet' id='gforms_formsmain_css-css'  href='https://w41k3r.com/wp-content/plugins/gravityforms/css/formsmain.min.css?ver=2.4.18' type='text/css' media='all' />
+ <link rel='stylesheet' id='gforms_ready_class_css-css'  href='https://w41k3r.com/wp-content/plugins/gravityforms/css/readyclass.min.css?ver=2.4.18' type='text/css' media='all' />
+ <link rel='stylesheet' id='gforms_browsers_css-css'  href='https://w41k3r.com/wp-content/plugins/gravityforms/css/browsers.min.css?ver=2.4.18' type='text/css' media='all' />
+ <script type='text/javascript' src='https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=202028'></script>
+ <script type='text/javascript' src='https://w41k3r.com/wp-content/plugins/likes-posts-comments/js/likes.js?ver=1.0'></script>
+ <script type='text/javascript' src='https://w41k3r.com/wp-includes/js/wp-embed.min.js'></script>
+ <script type='text/javascript' src='https://w41k3r.com/wp-includes/js/underscore.min.js?ver=1.8.3'></script>
+ <script type='text/javascript' src='https://w41k3r.com/wp-includes/js/backbone.min.js?ver=1.2.3'></script>
+ <script type='text/javascript' src='https://s1.wp.com/wp-content/js/mustache.js?ver=6.8.2-202028'></script>
+ <script type='text/javascript' src='https://s1.wp.com/wp-content/mu-plugins/notes/notes-common-v2.js?ver=6.8.2-202028'></script>
+ <script type='text/javascript' src='https://s0.wp.com/wp-content/mu-plugins/notes/admin-bar-v2.js?ver=6.8.2-202028'></script>
+ <script type='text/javascript' src='https://w41k3r.com/wp-content/plugins/gravityforms/js/jquery.json.min.js?ver=2.4.18'></script>
+ <script type='text/javascript'>
+ /* <![CDATA[ */
+ var gf_global = {"gf_currency_config":{"name":"U.S. Dollar","symbol_left":"$","symbol_right":"","symbol_padding":"","thousand_separator":",","decimal_separator":".","decimals":2},"base_url":"https:\/\/w41k3r.com\/wp-content\/plugins\/gravityforms","number_formats":[],"spinnerUrl":"https:\/\/w41k3r.com\/wp-content\/plugins\/gravityforms\/images\/spinner.gif"};
+ /* ]]> */
+ </script>
+ <script type='text/javascript' src='https://w41k3r.com/wp-content/plugins/gravityforms/js/gravityforms.min.js?ver=2.4.18'></script>
+ </body>
+ </html>
